@@ -24,3 +24,9 @@ The main steps for this project can be summarized as follows:
   - Data Assessment
   - Data Cleaning
 - Analysis/Visualization
+
+
+## How to Navigate:
+> * The notebook __wrangle_report.ipynb__ details my thought processes as I proceed for on the process of wrangling the datasets. It details every reason for the cleaning I chose to do
+> * The notebook __wrangle_act.ipynb__ contains the code of the actual process of the wrangling, with code comments and markdown cells to track the logical process of the steps taken.
+> * The notebook __act_report.ipynb__ contains the insights derived from Exploratory Data Analysis of the dataset __after wrangling__
